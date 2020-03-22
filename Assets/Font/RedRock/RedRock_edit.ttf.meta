@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 590c3d68c71c504448ae4fdf4e67ed0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RedRock
+  fontNames:
+  - RedRock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ac90dcf8d66958f418170c68f0541bb9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

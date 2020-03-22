@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 290e59170577fe2408b2cba679c93215
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: toilet_paper_pile_1
+    21300002: toilet_paper_pile_1
+    21300004: toilet_paper_pile_0
+    21300006: toilet_paper_pile_2
+    21300008: toilet_paper_pile_5
+    21300010: toilet_paper_pile_3
+    21300012: toilet_paper_pile_6
+    21300014: toilet_paper_pile_7
+    21300016: toilet_paper_pile_8
+    21300018: toilet_paper_pile_4
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toilet_paper_pile_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2484
+        width: 1465
+        height: 846
+      alignment: 9
+      pivot: {x: 0.30221614, y: 0.29356265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480916688ff2ef741a6e9c92f5cfbc92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_4
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2512
+        width: 1104
+        height: 711
+      alignment: 9
+      pivot: {x: 0.46404675, y: 0.31577408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474073c75bdef44c9c3e2cda5b45af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_0
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 2306
+        width: 1568
+        height: 1087
+      alignment: 9
+      pivot: {x: 0.34052214, y: 0.22978596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c5b11a3282694f8aa59508b609031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1607
+        width: 1484
+        height: 806
+      alignment: 9
+      pivot: {x: 0.31544718, y: 0.3227144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d2cd048d22934baad58a95c52d61d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_5
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1643
+        width: 925
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5514926, y: 0.30622673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781490e78e338f44598e5f3262f7b85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 575
+        width: 1306
+        height: 770
+      alignment: 9
+      pivot: {x: 0.35715657, y: 0.3401999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff719922135660d4eb50ded98971273d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 897
+        width: 849
+        height: 436
+      alignment: 9
+      pivot: {x: 0.5841529, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177c5c5f5bf95f4d8d38082274a4c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_7
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 202
+        width: 608
+        height: 449
+      alignment: 9
+      pivot: {x: 0.6762647, y: 0.4381189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7c06925d4ed741873b0b234bdfbc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_paper_pile_8
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 234
+        width: 571
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5556111, y: 0.51099503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d09a3b6b68d794a9b64103557f2a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80aa18d51f7fb4949b1ade7fe72672ed
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
